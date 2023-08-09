@@ -2,7 +2,7 @@
 
 This repository serves as a standardized template for organizing and conducting Python-based research projects. It's optimized for ensuring code quality and facilitating collaboration.
 
-This template was designed for academic research purposes during m master's and PhD journey.
+This template is designed for academic research purposes during my master's and Ph.D. journey.
 
 ## Directory Structure
 ```
