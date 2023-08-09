@@ -2,6 +2,10 @@
 data/*
 models/*
 logs/*
+!data/.gitkeep
+!models/.gitkeep
+!logs/.gitkeep
+
 
 # Mac OS
 .DS_Store
