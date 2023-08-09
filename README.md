@@ -2,6 +2,8 @@
 
 This repository serves as a standardized template for organizing and conducting Python-based research projects. It's optimized for ensuring code quality and facilitating collaboration.
 
+This template was designed for academic research purposes during m master's and PhD journey.
+
 ## Directory Structure
 ```
 ├── data/                # Raw and processed data
@@ -36,7 +38,3 @@ Copy code
 ## License
 
 This project is licensed under the terms of the [MIT License](LICENSE).
-
-## Acknowledgements
-
-This template was designed for academic research purposes during the master's and PhD journey.
