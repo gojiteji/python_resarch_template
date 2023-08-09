@@ -4,17 +4,18 @@ This repository serves as a standardized template for organizing and conducting 
 
 ## Directory Structure
 ```
-├── data # Raw and processed data
-├── .github
-│ ├── PULL_REQUEST_TEMPLATE.md # Template for pull requests
-│ └── workflows # GitHub Actions workflows
-├── .gitignore # List of files and directories to ignore in git
-├── LICENSE # Licensing details
-├── logs # Logs for debugging and performance checks
-├── models # Trained machine learning models and their metadata
-├── notebooks # Jupyter notebooks
-├── pyproject.toml # Project configurations and settings
-└── README.md # Project documentation
+├── data/                # Raw and processed data
+├── .github/
+│   ├── PULL_REQUEST_TEMPLATE.md    # Template for pull requests
+│   └── workflows/
+│       └── ruff.yml      # Workflow for Ruff linting on push and pull requests
+├── .gitignore            # List of files and directories to ignore in git
+├── LICENSE               # Licensing details
+├── logs/                 # Logs for debugging and performance checks
+├── models/               # Trained machine learning models and their metadata
+├── notebooks/            # Jupyter notebooks
+├── pyproject.toml        # Project configurations and settings
+└── README.md             # Project documentation
 ```
 
 markdown
