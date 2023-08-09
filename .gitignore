@@ -1,3 +1,6 @@
+# ruff cache
+.ruff_cache
+
 # Ignore data, models, and logs directories and their contents
 data/*
 models/*
