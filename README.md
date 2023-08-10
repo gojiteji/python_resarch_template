@@ -22,9 +22,6 @@ This template is designed for academic research purposes during my master's and 
 └── README.md             # Project documentation
 ```
 
-markdown
-Copy code
-
 ## Coding Standards
 - The project enforces linting rules using [Ruff](https://github.com/ambv/ruff), with specific rules outlined in `pyproject.toml`.
 - When submitting code, please ensure that it adheres to these standards.
