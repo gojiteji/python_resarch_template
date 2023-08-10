@@ -16,6 +16,8 @@ This template is designed for academic research purposes during my master's and 
 ├── logs/                 # Logs for debugging and performance checks
 ├── models/               # Trained machine learning models and their metadata
 ├── notebooks/            # Jupyter notebooks
+├── src/                  # source codes
+├── requirements.txt      # pip library version management
 ├── pyproject.toml        # Project configurations and settings
 └── README.md             # Project documentation
 ```
