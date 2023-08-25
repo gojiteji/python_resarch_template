@@ -34,6 +34,13 @@ This template is designed for academic research purposes during my master's and 
 4. Ensure your code adheres to the coding standards mentioned above.
 5. Open a pull request, using the template provided in `.github/PULL_REQUEST_TEMPLATE.md`.
 
+## Related Papers
+- [title]
+  - [publication date]
+  - [url]
+
+
+
 ## License
 
 This project is licensed under the terms of the [MIT License](LICENSE).
